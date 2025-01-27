@@ -6,3 +6,18 @@ The aims of this project were:
 - Train CNN models using general waste images for the purpose of marine waste detection.
 - Evaluate the performance of models trained on general data for specific tasks.
 - Help propose current, exisiting technological solutions for major environmental issues.
+
+## Methodology
+The approach of this solution consisted of two major areas:
+- A dataset of waste images in everday settings.
+- Evidencing the effectiveness of CNN model's, trained on generalised datasets, applied to the specific task of marine waste detection.
+
+### The Dataset
+
+[The Dataset](https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2/versions/4)
+
+Suman Kunwar. (2023). Garbage Dataset [Data set]. Kaggle. (https://doi.org/10.34740/KAGGLE/DS/2814684)
+
+### The Models
+
+
