@@ -13,8 +13,7 @@ The approach of this solution consisted of two major areas:
 - Evidencing the effectiveness of CNN model's, trained on generalised datasets, applied to the specific task of marine waste detection.
 
 ### The Dataset
-
-[The Dataset](https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2/versions/4)
+The dataset of waste images was taken from Kaggle and created by Suman Kunwar and thierrytheg. The dataset consists of 
 
 Suman Kunwar. (2023). Garbage Dataset [Data set]. Kaggle. (https://doi.org/10.34740/KAGGLE/DS/2814684)
 
